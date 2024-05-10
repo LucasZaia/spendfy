@@ -1,4 +1,4 @@
-package com.spendfy.api.models.security;
+package com.spendfy.api.enums.security.User;
 
 import java.util.Collection;
 import java.util.stream.Collectors;
